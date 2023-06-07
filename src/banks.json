@@ -1,0 +1,6 @@
+{
+  "banks": [
+    {"id": 1, "name": "Itaú", "tedTax": 1.2},
+    {"id": 2, "name": "Inter", "tedTax": 0.9}
+  ]
+}
